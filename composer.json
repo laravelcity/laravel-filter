@@ -1,6 +1,6 @@
 {
     "name": "laravelcity/laravel-filter",
-    "description": "This package for filter eloquent",
+    "description": "This package for filter eloquent builder",
     "description": "This package is file manager",
     "keywords": [
         "laravelcity",
